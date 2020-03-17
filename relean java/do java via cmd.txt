@@ -1,0 +1,20 @@
+first set the path to java bin folder 
+
+or no need if u have setted the path as environment variable 
+(i have setted it)
+
+then make a file with notepad and do java code in it with extension of .java
+
+and set both the class nama and file name as same
+
+then go the the location in cmd where u have saved ur .java file
+( ex desktop) 
+
+the use command javac filename.java
+
+if it executed successfully it has no errors else u have to solve errors
+
+after u have class file 
+
+type " java filename" without any extension and ur good to go
+
